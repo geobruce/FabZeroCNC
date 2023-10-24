@@ -8,4 +8,4 @@ Course material for FabZero CNC
 ## Files
 ### Exercise file for KrabzCam
 ![](Files/Different%20type%20of%20opps.svg)
-[Download](Files/Different%20type%20of%20opps.svg)
+[Download - Right click save as](Files/Different%20type%20of%20opps.svg)
