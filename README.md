@@ -35,9 +35,20 @@ https://github.com/vlachoudis/bCNC
 
 ![](Files/Different%20type%20of%20opps.svg)
 [Exercise file (To download: Right click save as)](Files/Different%20type%20of%20opps.svg)
+
 #### Solution
 
 [Solution to exercise file (To download: Right click save as)](Files/different%20opps.json.gz)
+
+
+### Exercise file for Kiri:moto
+
+[3D File](./Files/3d%20test%20file.stl)
+
+
+### Speed and feed calculator
+
+[Speed feed calculator](Files\Speed%20Feed%20Calculator%20Makita%20Dewalt.xlsx)
 
 ## Extra Info
 - Nice read about Speeds and feeds https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/feeds-and-speeds-basics
